@@ -26,7 +26,7 @@ Exercise 1 – Resolve Cases
 
 2.  Click on the **Sitemap** Button and select **Service**.  Then select **Cases** under the **Service** section.
 
-3.  Locate and open the **[your prefix ex. mollyc]+ Missing Power Supply** record you created.
+3.  Locate and open the record you created previously.
 
 4.  Click on the **Identify** stage of the **Business Process Flow**.
 
@@ -40,7 +40,7 @@ Exercise 1 – Resolve Cases
     
 8.  Click on the **Related** tab and select **Activities**
 
-9.  Click the **[your prefix ex. mollyc]+ Missing Power Supply** Activity you created.
+9.  Click the  Activity you created.
 
 10. Click the **Mark Complete** button located in the command bar.  You need to complete any open Activities associated with a Case before you resolve the Case.  Otherwise, the Activities will be cancelled.
 

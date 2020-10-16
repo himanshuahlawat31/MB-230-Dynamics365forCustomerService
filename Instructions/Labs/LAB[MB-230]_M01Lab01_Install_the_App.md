@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab: Install the app'
-    module: 'Module 1: Customer Service Overview'
----
-
 Module 1: Customer Service Overview
 ===================================
 
@@ -16,7 +10,7 @@ You are a business analyst working on the Dynamics 365 for Customer Service
 implementation for your company, City Power & Light. You need to install the
 Customer Service application in your environment.
 
-Exercise 1 – Install Dynamics 365 Customer Service Hub
+Exercise 1 – Access Dynamics 365 Customer Service Hub
 ------------------------------------------------------
 
 In this exercise, you will install the Dynamics 365 Customer Service Application

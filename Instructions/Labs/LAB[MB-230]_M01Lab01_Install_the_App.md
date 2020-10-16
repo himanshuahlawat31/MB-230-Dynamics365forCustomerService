@@ -1,8 +1,6 @@
 Module 1: Customer Service Overview
 ===================================
 
-## Practice Lab 1 – Install the app
-
 Scenario
 --------
 

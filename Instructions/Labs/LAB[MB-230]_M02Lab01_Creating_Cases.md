@@ -36,7 +36,7 @@ activity and then convert the activity to Case.
 
 6.  Enter *[your prefix ex. mollyc]+ Defective Screen* for **Case Title**, select **Default Subject**
     for **Subject**, type *your user name* in the **Customer** field, click on the lookup
-    button and select *your user*.
+    button and Create your user and Select
 
 7.  Click **Save**.
 

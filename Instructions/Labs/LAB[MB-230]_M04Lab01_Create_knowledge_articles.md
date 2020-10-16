@@ -31,11 +31,9 @@ In this task, you will create an internal Knowledge Article for missing parts.
 
 1.  Navigate to <https://admin.powerplatform.microsoft.com/>
 
-2.  Expand **Admin Center** and select **Dynamics 365**.
+2.  Select the Environment that you created from Environments section.
 
-3.  Select your **Instance** and click **Open**.
-
-4.  Click **Dynamics 365** and select **Customer Service Hub**.
+3.  click on the **Environment URL** and select **Customer Service Hub**.
 
 5.  Click on the **Sitemap** button and select **Service**.  Select **Knowledge Articles** under the **Knowledge** section
 

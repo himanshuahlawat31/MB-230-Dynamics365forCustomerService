@@ -64,7 +64,7 @@ Exercise 1 – Resolve Cases
 
 5.  Click **Reactivate**. The case will be reactivated.
 
-6.  Change the **Case Title** to ****[your prefix ex. mollyc]+ Power Supply Not Received** in the details
+6.  Change the **Case Title** to ****[your prefix ex. mollyc]+ Defective Screen Not Received** in the details
     tab.
 
 7.  Click **Save & Close**.

@@ -22,45 +22,37 @@ Exercise 1 – Install Dynamics 365 Customer Service Hub
 In this exercise, you will install the Dynamics 365 Customer Service Application
 and then install sample data.
 
-### Task 1 – Install Customer Service Application
+### Task 1 – Access Customer Service Application
 
 1.  Go back to <https://admin.Powerplatform.microsoft.com>
 
-2.  Expand **Admin Centers** and select **Dynamics 365**.
+2.  Select the Environment that you created from Environments section. 
 
-3.  Select the **Edit** button. You will open the Contoso environment in the **Power Platform Admin center.**
+3.  click on the **Environment URL**.
 
-4.  Enter **[your prefix ex. mollyc]+ CustServicePractice** for Name and URL if available (or enter a different URL). We will refer to this environment throughout the labs as the **Practice** environment. 
-
-6.  Click **Save**.  
-
-It will take few minutes to save the environment. 
+4.  Select Customer Service Hub and Explore 
 
 ### Task 2 – Install Sample Data
 
 The Dynamics 365 Customer Service Application installation must complete before
 starting this task.
 
-1.  Navigate to <https://admin.powerplatform.microsoft.com>
+1.  Click on Customer Service Hub
 
-2.  Expand **Admin Center** and click **Dynamics 365**.
+2.  Click the gear icon in the top right and select **Advanced Settings** (this will open a new window or tab)
 
-3.  Select your instance and click **Open**.
+3.  Navigate to **Settings** and select **Data Management**.
 
-4. Click the gear icon in the top right and select **Advanced Settings** (this will open a new window or tab)
+4.  Click **Sample Data**.
 
-4.  Navigate to **Settings** and select **Data Management**.
+5.  Verify sample data is installed.  If not, Click **Install Sample Data**.
 
-5.  Click **Sample Data**.
-
-6.  Verify sample data is installed.  If not, Click **Install Sample Data**.
-
-7.  Wait for the sample data installation to start and click **Close**. The
+6.  Wait for the sample data installation to start and click **Close**. The
     sample data installation process will run in the background for a few
     minutes before you will see results.
 
-8.  Click on the **Site Map** button and select the **Customer Service Hub**
+7.  Click on the **Site Map** button and select the **Customer Service Hub**
     app.
 
-9.  Your dashboard should now show some data. You may have to refresh the page
+8.  Your dashboard should now show some data. You may have to refresh the page
     before you can see the data.  Search between different dashboards and get familiar with the app.

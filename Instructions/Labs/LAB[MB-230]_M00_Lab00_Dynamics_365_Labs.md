@@ -39,7 +39,7 @@ Exercise 1 - Access the Dynamics 365 application
 
 1.  Click on  the **Environment** button at the left of the screen, Select **+New**. 
 
-2.  Enter [your prefix ex. mollyc]+ CustServicePractice for Name,Region should be Default.  
+2.  Enter [your prefix ex. mollyc]+ CustServicePractice for Name, Region and Type should be Default.  
 
 3.  Create a database for this environment : **Yes** . Click on Next.
 
